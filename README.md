@@ -46,19 +46,29 @@ Perintah ini akan menginstal:
 _Pastikan Google Chrome terinstal di komputer Anda. Jika belum, unduh dan instal dari https://www.google.com/chrome/_
 
 ### 4. Persiapan File Excel
-1. Buat file Excel dengan nama "prabayar h2h.xlsx"
-2. File harus memiliki kolom berikut (perhatikan penulisan yang tepat):
-   - KATEGORY |OPERATOR |PRODUK ID |PRODUK |DETAIL |ZONA |MARKUP
+1. Buat file Excel baru dengan nama "prabayar h2h.xlsx"
+2. Pada baris pertama file Excel, masukkan judul kolom berikut (perhatikan penulisan yang tepat):
+   KATEGORY | OPERATOR | PRODUK ID | PRODUK | DETAIL | ZONA | MARKUP
+3. Pastikan setiap judul kolom ditulis persis seperti di atas, termasuk huruf besar dan spasi.
+4. Isi data produk Anda di bawah judul kolom yang sesuai, mulai dari baris kedua.
+5. Simpan file Excel di folder Downloads komputer Anda.
 
-Jadi Kolom pada excel diisi Judul kolom seperti diatas
+### 5. Mendapatkan Script
+Untuk mendapatkan script terbaru, Anda bisa mengunduhnya dari repository GitHub berikut:
+https://github.com/k4ngujang/bootprabayarh2h-serpul/blob/main/prabayarh2h.py
+
+1. Buka link di atas menggunakan browser Anda.
+2. Klik tombol "Raw" di bagian atas konten script.
+3. Klik kanan pada halaman dan pilih "Simpan sebagai" atau "Save as".
+4. Simpan file dengan nama "prabayarh2h.py" di lokasi yang mudah diakses (misalnya: Desktop atau Documents).
 
 3. Simpan file Excel di folder Downloads komputer Anda 
 
-### 5. Mengunduh Script
+### 6. Mengunduh Script
 1. Unduh file `prabayarh2h.py`
 2. Simpan di lokasi yang mudah diakses (misalnya: Desktop atau Documents)
 
-### 6. Konfigurasi Script
+### 7. Konfigurasi Script
 1. Buka file prabayarh2h.py menggunakan text editor (Notepad++ atau Visual Studio Code)
 2. Cari dan ubah kredensial login:
 email_input.send_keys("email_anda@example.com")  # Ganti dengan email login dashbord
