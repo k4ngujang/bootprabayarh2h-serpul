@@ -136,7 +136,7 @@ try:
     driver = initialize_driver()
 
     # Proses login
-    driver.get("https://domiananda.serpul.co.id/login")
+    driver.get("https://domainanda.serpul.co.id/login")
     print_green("Script sedang berjalan....")
 
     # Input email
