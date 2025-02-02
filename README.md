@@ -47,11 +47,10 @@ _Pastikan Google Chrome terinstal di komputer Anda. Jika belum, unduh dan instal
 
 ### 4. Persiapan File Excel
 1. Buat file Excel baru dengan nama "prabayar h2h.xlsx"
-2. Pada baris pertama file Excel, masukkan judul kolom berikut (perhatikan penulisan yang tepat):
-   KATEGORY | OPERATOR | PRODUK ID | PRODUK | DETAIL | ZONA | MARKUP
-3. Pastikan setiap judul kolom ditulis persis seperti di atas, termasuk huruf besar dan spasi.
-4. Isi data produk Anda di bawah judul kolom yang sesuai, mulai dari baris kedua.
-5. Simpan file Excel di folder Downloads komputer Anda.
+2. Pada baris pertama file Excel, masukkan judul kolom berikut (perhatikan penulisan yang tepat):KATEGORY, OPERATOR, PRODUK ID, PRODUK, DETAIL, ZONA, MARKUP
+4. Pastikan setiap judul kolom ditulis persis seperti di atas, termasuk huruf besar dan spasi.
+5. Isi data produk Anda di bawah judul kolom yang sesuai, mulai dari baris kedua.
+6. Simpan file Excel di folder Downloads komputer Anda.
 
 ### 5. Mendapatkan Script
 Untuk mendapatkan script terbaru, Anda bisa mengunduhnya dari repository GitHub berikut:
