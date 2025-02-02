@@ -62,7 +62,16 @@ https://github.com/k4ngujang/bootprabayarh2h-serpul/blob/main/prabayarh2h.py
 3. Klik kanan pada halaman dan pilih "Simpan sebagai" atau "Save as".
 4. Simpan file dengan nama "prabayarh2h.py" di lokasi yang mudah diakses (misalnya: Desktop atau Documents).
 
-3. Simpan file Excel di folder Downloads komputer Anda 
+Pastikan pada bagian script:
+
+# Proses login
+    driver.get("https://domainanda.serpul.co.id/login")
+    print_green("Script sedang berjalan....")
+untuk merubah "domainanda" dengan nama domain dashbord begitupun pada bagian 
+
+# Navigasi ke halaman create produk
+    driver.get("https://domainanda.serpul.co.id/product/prabayar/product/create")
+agar merubah nama "domainanda" menjadi domain dashbord yang di lanjutan dengan domain serpul seperti halnya link diatas
 
 ### 6. Mengunduh Script
 1. Unduh file `prabayarh2h.py`
