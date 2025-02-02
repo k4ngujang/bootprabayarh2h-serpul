@@ -189,7 +189,7 @@ Pastikan untuk menggunakan nama kolom yang tepat seperti di atas.
    - Periksa log untuk troubleshooting
    - Laporkan bug yang ditemukan
 
-## Dukungan dan Bantuan
+## Dukungan
 
 - Telegram: https://t.me/kangujang08
 
